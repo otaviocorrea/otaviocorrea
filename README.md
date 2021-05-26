@@ -1,8 +1,3 @@
 <div class="centralized">
-    <img src="src/img/john_travolta.gif">
+    <img src="src/img/john_travolta.gif" width="45%">
 </div>
-
-<style>
-    img{ width: 45%; }
-    .centralized{ display: flex; flex: 1; justify-content: center}
-</style>
