@@ -1,8 +1,11 @@
-## Sorry for wasting your time, come back soon 🤪🤪🤪
-
-![](src/img/under_construction.png)
-
+## Hi, welcome !!!
+### Don't mind the mess 🤪
 #
+
+![](https://komarev.com/ghpvc/?username=otaviocorrea&style=for-the-badge)
+#
+
 - 🔭 I’m currently working on [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
 
-- 👨‍💻 All my projects are available [here.](https://github.com/otaviocorrea?tab=repositories)
+- 👨‍💻 Some of my public projects are [here.](https://github.com/otaviocorrea?tab=repositories)
+
