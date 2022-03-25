@@ -1,7 +1,4 @@
-# Hi, welcome !!! 
-#### Don't mind the mess 🤪
-
-<hr />
+<p align="center">
   <a href="mailto:otaviocorrea@gmail.com" alt="Contact by email" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -14,6 +11,8 @@
   <a href="#" alt="Fans who visited me">
     <img src="https://komarev.com/ghpvc/?username=otaviocorrea&style=for-the-badge" />
   </a>
+</p>
+
 <hr />
   
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviocorrea&theme=vue" />
