@@ -2,7 +2,7 @@
   <a href="mailto:otaviocorrea@gmail.com" alt="Contact by email" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/otaviocorreas/" alt="Contact by Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/otavioscorrea/" alt="Contact by Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/otaviocorrea" alt="Contact by Telegram" target="_blank">
