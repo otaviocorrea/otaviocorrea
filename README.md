@@ -22,7 +22,6 @@
 
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocorrea&layout=compact&count_private=true" />
 
-- 🛠️ **I’m currently on [Real Seguro Viagem](https://www.seguroviagem.srv.br/)**
 - 👨‍💻 **Some of my public projects are [here.](https://github.com/otaviocorrea?tab=repositories)**
 
 
