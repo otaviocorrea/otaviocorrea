@@ -22,6 +22,6 @@
 
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocorrea&layout=compact&count_private=true" />
 
-- 👨‍💻 **Some of my public projects are [here.](https://github.com/otaviocorrea?tab=repositories)**
+- 👨‍💻 **Some of my public projects are [here](https://github.com/otaviocorrea?tab=repositories)** and some my random/study projects is [here](https://github.com/orgs/otaviocorrea-random/repositories)
 
 
